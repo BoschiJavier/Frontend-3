@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import Botones from "./Botones/Botones";
-import data from "./data.json"
-import Historias from "./Historias";
-import Historial from "./Historial";
-
+import Botones from "../Botones/Botones";
+import data from "../data.json"
+import Historias from "../Historia/Historias";
+import Historial from "../Historial/Historial";
 
 
 

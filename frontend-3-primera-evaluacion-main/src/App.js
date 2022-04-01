@@ -1,4 +1,4 @@
-import Diseño from "./components/Diseño";
+import Diseño from "./components/Diseño/Diseño";
 
 
 
